@@ -5,14 +5,16 @@ entries:
   - title: about
     entries:
       - title: Hi! I'm a current PhD student at MIT working with Prof. Jennifer Rupp
-      - title: I work at the interface between modelling and experiment. 
-      - title: I will graduate with my PhD in Feburary and am currently exploring my next steps
+      - title: I work at the interface between computation and experiment. 
+      - title: I will graduate with my PhD in Feburary and am currently exploring work opportunities in the Los Angeles/Pasadena area.
       - title: github repo
-        url: https://github.com/riggraz/no-style-please
+        url: https://github.com/wolearyc
   
   - title: projects
     entries:
-      - title: with subitems
+      - title: DFT-derived Catalytic Mechanism of the Vanadyl Pyrophosphate
+        url: exsolution
+      - title: DFT-derived Catalytic Mechanism of the Vanadyl Pyrophosphate
         url: vpo
 
   - title: old projects
