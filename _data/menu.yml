@@ -4,17 +4,17 @@
 entries:
   - title: about
     entries:
-      - title: Hi! I'm a computational and experimental material scientist looking for work.
+      - title: Hi! I'm a current PhD student at MIT working with Prof. Jennifer Rupp
+      - title: I work at the interface between modelling and experiment. 
+      - title: I will graduate with my PhD in Feburary and am currently exploring my next steps
       - title: github repo
         url: https://github.com/riggraz/no-style-please
   
   - title: projects
     entries:
       - title: with subitems
-        url: about
+        url: vpo
 
   - title: old projects
     entries:
       - title: with subitems
-        url: about
-
