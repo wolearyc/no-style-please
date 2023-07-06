@@ -1,17 +1,19 @@
 ---
 layout: page
-title: DFT-derived Catalytic Mechanism of the Vanadyl Pyrophosphate
+title: Rational Design of Exsolution Catalysts
 ---
 
-> Goddard Group, Caltech 
-> June 2016 - September 2017
+> Rupp Group, MIT & Technical University of Munich  
+> June 2020 - June 2023
 
-![theme logo](vpo_scheme.png){:.ioda}
+![exsolution scheme](exsolution_comp.png){:.ioda}
 
 
-Industrial production of maleic anhydride (MA) from n-butane relies on the vanadyl pyrophosphate (VPO) catalyst. Improving VPO’s selectivity and activity could have enormous economic and environmental impact, but efforts have been impeded by uncertainties regarding the active phases and atomistic mechanism of the VPO catalyst. We report here a plausible 15-step mechanism taking n-butane to MA with energetics computed using hybrid density functional theory calculations on periodic models of the surface layers. We find that the P=O group on the X1 phase is solely responsible for butane activation. The P=O group is made active by the reduction of a nearby vanadium atom, a so-called reduction-coupled oxo-activation. However, we show that a catalyst consisting only of the X1 phase would not be selective because of several highly exothermic steps. Instead, we show that the more stable α1 phase can catalyze the formation of MA after initial activation, thus proposing and validating a dual-phase mechanism that takes butane to MA. Our new mechanism inspires the development of a more selective VPO catalyst containing small X1 regions highly separated by α1 surfaces.
+Cermet catalysts formed via exsolution of metal nanoparticles from perovskites promise to perform better in electro- and thermochemical applications than those synthesized by conventional wet-chemical approaches. However, a shortage of robust material design principles still stands in the way of widespread commercial adoption of exsolution. Working with Ni-doped SrTiO3 solid solutions, we investigated how the introduction of Sr deficiency as well as Ca, Ba, and La doping on the Sr site changed the size and surface density of exsolved Ni nanoparticles. We carried out exsolution on 11 different compositions under fixed conditions. We elucidated the effect of A-site defect size/valence on nanoparticle density and size as well as the effect of composition on nanoparticle immersion and ceramic microstructure. Based on our experimental results, we developed a model that quantitatively predicted a composition’s exsolution properties using density functional theory calculations. The model and calculations provide insights into the exsolution mechanism and can be used to find new compositions with high exsolution nanoparticle density.
 
 > **publication:**   
-> <a href = "https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b07881" target = "_blank">Dual-Phase Mechanism for the Catalytic Conversion of n-Butane to Maleic Anhydride by the Vanadyl Pyrophosphate Heterogeneous Catalyst</a> 
-> W.C. O’Leary, W.A. Goddard, M. Cheng   
-> *The Journal of Physical Chemistry C*, 121, 43 24069-24076 (2017) 
+> <a href = "https://pubs.acs.org/doi/10.1021/jacs.2c12011" target = "_blank">Influence of Sr-Site Deficiency, Ca/Ba/La Doping on the Exsolution of Ni from SrTiO3</a>  
+>  W. O'Leary, L. Giordano, J. Park, S.S. Nonnenmann, Y. Shao-Horn, J.L.M. Rupp   
+> *Journal of the American Chemical Society*, 145, 25, 13768–13779 (2023) 
+
+Coming soon: Uncovering the phenomena underpinning control of exsolution through reducing conditions.
