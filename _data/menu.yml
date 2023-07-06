@@ -12,8 +12,8 @@ entries:
   
   - title: projects
     entries:
-      - title: with subitems
-        url: vpo
+      - title: DFT Investigation of Vanadyl Pyrophosphate
+        url: about
 
   - title: old projects
     entries:
