@@ -14,4 +14,4 @@ Industrial production of maleic anhydride (MA) from n-butane relies on the vanad
 > **publication:**   
 > <a href = "https://pubs.acs.org/doi/abs/10.1021/acs.jpcc.7b07881" target = "_blank">Dual-Phase Mechanism for the Catalytic Conversion of n-Butane to Maleic Anhydride by the Vanadyl Pyrophosphate Heterogeneous Catalyst</a>  
 > W.C. O’Leary, W.A. Goddard, M. Cheng   
-> *The Journal of Physical Chemistry C*, 121, 43 24069-24076 (2017)  
+> **The Journal of Physical Chemistry C**, 121, 43 24069-24076 (2017)  

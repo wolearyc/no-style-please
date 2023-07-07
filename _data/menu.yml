@@ -1,22 +1,32 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
+hi!
+
 entries:
   - title: about
     entries:
-      - title: Hi! I'm a current PhD student at MIT working with Prof. Jennifer Rupp
-      - title: I work at the interface between computation and experiment. 
-      - title: I will graduate with my PhD in Feburary and am currently exploring work opportunities in the Los Angeles/Pasadena area.
+      - title: PhD student at MIT working with Prof. Jennifer Rupp
+      - title: working at the interface between computation and experiment 
+      - title: graduating in feburary - currently exploring work opportunities in the Los Angeles/Pasadena area
       - title: github repo
         url: https://github.com/wolearyc
   
-  - title: projects
+  - title: my projects
     entries:
+      - title: Identification of Point Defects from Raman (coming soon)
       - title: Rational Design of Exsolution Supported Metal Catalysts
         url: exsolution
+      - title: Combining Quantum Mechanical and Classical Molecular Dynamics
+        url: breqm
       - title: DFT-derived Catalytic Mechanism of the Vanadyl Pyrophosphate
         url: vpo
+      - title: Database-Driven Software Analysis for Space Systems
+        url: c4
 
-  - title: old projects
+  - title: ancient projects
     entries:
-      - title: with subitems
+      - title: Using Symbolic Execution to Find Bugs in Code
+        url: symexec
+      - title: Enhancing Chemotherapy with Tylenol
+        url: chemo
