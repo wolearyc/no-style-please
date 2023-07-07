@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Combining Quantum Mechanical and Classical Molecular Dynamics
+title: Using Symbolic Execution to Find Bugs in Code
 ---
 
 > Wright Group, Portland State University  
