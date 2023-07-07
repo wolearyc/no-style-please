@@ -1,8 +1,6 @@
 # For documentation on this file, see:
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
-hi!
-
 entries:
   - title: about
     entries:
@@ -30,3 +28,10 @@ entries:
         url: symexec
       - title: Enhancing Chemotherapy with Tylenol
         url: chemo
+
+  - title: where i've been
+    entries:
+      - title: MIT (graduate school), 2018-2024
+      - title: Technische Universität München (visiting researcher), 2022-2023 
+      - title: University of Cambridge (study abroad), 2017
+      - title: Caltech (undergrad), 2014-2018
