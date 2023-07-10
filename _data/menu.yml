@@ -4,11 +4,9 @@
 entries:
   - title: about
     entries:
-      - title: PhD student at MIT working with Prof. Jennifer Rupp
-      - title: working at the interface between computation and experiment 
-      - title: graduating in feburary - currently exploring work opportunities in the Los Angeles/Pasadena area
-      - title: github repo
-        url: https://github.com/wolearyc
+      - title: material scientist and engineer at MIT
+      - title: interested in using computation to solve materials and chemistry problems
+      - title: graduating with my PhD in feburary - **currently looking for work**
   
   - title: my projects
     entries:
@@ -35,3 +33,4 @@ entries:
       - title: Technische Universität München (visiting researcher), 2022-2023 
       - title: University of Cambridge (study abroad), 2017
       - title: Caltech (undergrad), 2014-2018
+      - title: from Portland, OR
