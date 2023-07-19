@@ -11,7 +11,7 @@ entries:
   
   - title: my projects
     entries:
-      - title: Tracking Point Defects with Raman Spectscopy (coming soon)
+      - title: Tracking Point Defects with Raman Spectroscopy (coming soon)
       - title: Rational Design of Exsolution Supported Metal Catalysts
         url: exsolution
       - title: Combining Quantum Mechanical and Classical Molecular Dynamics
@@ -35,3 +35,13 @@ entries:
       - title: University of Cambridge (study abroad), 2017
       - title: Caltech (undergrad), 2014-2018
       - title: from Portland, OR
+
+  - title: external
+    entries:
+      - title: github
+        url: https://github.com/wolearyc
+      - title: google scholar
+        url: https://scholar.google.com/citations?user=sRGkFeMAAAAJ&hl=en
+      - title: linkedin
+        url: https://www.linkedin.com/in/wolearyc/
+      - title: contact: wolearyc@gmail.com
