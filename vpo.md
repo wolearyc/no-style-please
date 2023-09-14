@@ -1,6 +1,6 @@
 ---
 layout: page
-title: DFT-derived Catalytic Mechanism of the Vanadyl Pyrophosphate
+title: DFT-derived Catalytic Mechanism of Vanadyl Pyrophosphate
 ---
 
 > Goddard Group, Caltech  
