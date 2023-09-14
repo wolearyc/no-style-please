@@ -5,7 +5,7 @@ entries:
   - title: about
     entries:
       - title: material scientist and engineer at MIT
-      - title: interested in using computation to solve materials and chemistry problems
+      - title: combining computation and experiments to solve tough materials and chemistry problems
       - title: graduating with my PhD in feburary
       - title: currently looking for work!
   
@@ -14,6 +14,8 @@ entries:
       - title: Tracking Point Defects with Raman Spectroscopy (coming soon)
       - title: Rational Design of Exsolution Supported Metal Catalysts
         url: exsolution
+      - title: Nanoparticle Synthesis Using Plasma
+        url: plasma
       - title: Combining Quantum Mechanical and Classical Molecular Dynamics
         url: breqm
       - title: DFT-derived Catalytic Mechanism of Vanadyl Pyrophosphate
