@@ -13,6 +13,6 @@ The successful design of solid-state photo- and electrochemical devices depends 
 
 > **publication:**   
 > <a href = "https://pubs.acs.org/doi/full/10.1021/jacs.4c07812" target = "_blank">Rapid Characterization of Point Defects in Solid-State Ion Conductors Using Raman Spectroscopy, Machine-Learning Force Fields, and Atomic Raman Tensors</a>  
-> *W. O’Leary, M. Grumet, W Kaiser, T. Bučko, J.L.M. Rupp, D.A. Egger*
+>  W. O’Leary, M. Grumet, W Kaiser, T. Bučko, J.L.M. Rupp, D.A. Egger  
 > **Journal of the American Chemical Society**, in press (2023) 
 
