@@ -4,14 +4,14 @@
 entries:
   - title: about
     entries:
-      - title: material scientist and engineer at MIT
-      - title: combining computation and experiments to solve tough materials and chemistry problems
-      - title: graduating with my PhD in feburary
-      - title: currently looking for work!
+      - title: Material scientist and engineer
+      - title: I combine computation and experiments to solve tough materials and chemistry problems
+      - title: Recently graduated with my PhD from MIT and currently looking for next steps!
   
   - title: my projects
     entries:
-      - title: Tracking Point Defects with Raman Spectroscopy (coming soon)
+      - title: Tracking Point Defects in Solid State Ion Conductors with Raman Spectroscopy
+      - url: raman
       - title: Rational Design of Exsolution Supported Metal Catalysts
         url: exsolution
       - title: Nanoparticle Synthesis Using Plasma
