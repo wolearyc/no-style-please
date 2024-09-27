@@ -12,7 +12,7 @@ entries:
   - title: Projects
     entries:
       - title: Predicting Raman Spectra Using Simulations and AI
-      - url: https://github.com/wolearyc/ramannoodle
+        url: https://github.com/wolearyc/ramannoodle
       - title: Tracking Point Defects in Solid State Ion Conductors with Raman Spectroscopy
         url: raman
       - title: Rational Design of Exsolution Supported Metal Catalysts
