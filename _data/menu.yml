@@ -2,14 +2,17 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about
+  - title: About
     entries:
-      - title: Material scientist and engineer
       - title: I combine computation and experiments to solve tough materials and chemistry problems
-      - title: Recently graduated with my PhD from MIT and currently looking for next steps!
+      - title: Recently graduated with my PhD from MIT. Currently looking for my next challenge.
+      - title: Resume (general)
+        url: OLeary_Resume.pdf
   
-  - title: my projects
+  - title: Projects
     entries:
+      - title: Predicting Raman Spectra Using Simulations and AI
+      - url: https://github.com/wolearyc/ramannoodle
       - title: Tracking Point Defects in Solid State Ion Conductors with Raman Spectroscopy
         url: raman
       - title: Rational Design of Exsolution Supported Metal Catalysts
@@ -23,28 +26,26 @@ entries:
       - title: Database-Driven Software Analysis for Space Systems
         url: c4
 
-  - title: ancient projects
+  - title: Ancient Projects
     entries:
       - title: Using Symbolic Execution to Find Bugs in Code
         url: symexec
       - title: Enhancing Chemotherapy with Tylenol
         url: chemo
 
-  - title: where i've been
+  - title: Where I've Been
     entries:
       - title: MIT (graduate school), 2018-2024
-      - title: Technische Universität München (visiting researcher), 2022-2023 
+      - title: Technical University of Munich (visiting researcher), 2022-2023 
       - title: University of Cambridge (study abroad), 2017
       - title: Caltech (undergrad), 2014-2018
       - title: from Portland, OR
 
-  - title: external
+  - title: External
     entries:
-      - title: github
+      - title: Github
         url: https://github.com/wolearyc
-      - title: google scholar
+      - title: Google scholar
         url: https://scholar.google.com/citations?user=sRGkFeMAAAAJ&hl=en
-      - title: linkedin
+      - title: LinkedIn
         url: https://www.linkedin.com/in/wolearyc/
-      - title: resume (general)
-        url: OLeary_Resume.pdf
